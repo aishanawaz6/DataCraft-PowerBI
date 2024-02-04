@@ -1,4 +1,4 @@
-# Power BI Project: 🚀 Custom Visuals and Data Storytelling Mastery 🚀
+# Power BI Project: 🚀 Email Spam Classification Dashboard 🚀
 
 ## Data Source
 
