@@ -1,7 +1,7 @@
 # Power BI Project: 🌐 World's Biggest Data Breaches and Hacks Dashboard 🌐
 
 ## Dataset Link
-[World's Biggest Data Breaches and Hacks Dataset](insert_link_here)
+[World's Biggest Data Breaches and Hacks Dataset](https://www.kaggle.com/datasets/joebeachcapital/worlds-biggest-data-breaches-and-hacks)
 
 ## Tasks: Advanced Data Transformations and Measures
 

@@ -1,7 +1,7 @@
 # Power BI Project: Analyzing Ransomware Attacks 🌐🔍
 
 ## Data Set Link
-[Ransomware Attacks Data Set](insert_actual_link_here)
+[Ransomware Attacks Data Set](https://www.kaggle.com/datasets/joebeachcapital/ransomware-attacks)
 
 ## Project Overview
 Welcome to the Power BI Project on Analyzing Ransomware Attacks! In this journey, I've dived into the realm of ransomware attack data, utilizing Power BI to uncover insights into the frequency, impact, and patterns of these attacks. The dataset provides rich information about various ransomware attacks, including the target industry, affected entities, attack dates, and ransom amounts demanded.

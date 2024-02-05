@@ -1,7 +1,7 @@
 # Power BI Project: 📊 Bank Credit Scoring Dashboard 📊
 
 ## Dataset Link
-[Bank Credit Scoring Dataset](insert_actual_link_here)
+[Bank Credit Scoring Dataset](https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring)
 
 ## Project Overview
 Welcome to the Bank Credit Scoring Dashboard! In this project, I've utilized Power BI to craft a comprehensive dashboard for analyzing credit scoring data. The objective was to create compelling visualizations, design an intuitive layout, and facilitate interactive data exploration using filters, slicers, and drill-throughs based on the provided "Bank Credit Scoring" dataset.
